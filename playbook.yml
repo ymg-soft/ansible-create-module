@@ -2,7 +2,7 @@
   tasks:
      - name: Create a github Repo
        github_repo:
-        github_auth_key: "{{ git_key }}"
+        github_auth_key: "eac88a913ff42fb80d35379711c051625c0c3688"
         name: "install-create-module"
         description: "Ansible module for github"
         private: no
